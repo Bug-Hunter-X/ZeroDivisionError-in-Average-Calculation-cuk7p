@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python code: the ZeroDivisionError.  The `bug.py` file contains the buggy code, which fails to handle an empty input list when calculating the average. The `bugSolution.py` file provides a corrected version with proper error handling.  This example highlights the importance of robust error handling in Python applications.
